@@ -1,0 +1,19 @@
+{
+  "header": {
+    "navlinks": {
+      "about": "About Me",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "job": "Front-End Developer",
+    "description": "I am a front-end developer with a passion for creating beautiful and functional web applications. I have experience working with HTML, CSS, JavaScript, and React. I am always looking to learn new technologies and improve my skills."
+  },
+  "about-me": {
+    "title": "Front-End, Web designer/developer",
+    "description": "Motivated Junior Front-End Developer with practical experience creating responsive and user-friendly web applications through academic and personal projects. Proficient in HTML, CSS, SCSS, JavaScript, TypeScript, React and Next.js with a solid understanding of UI/UX fundamentals. Eager to apply skills in a professional setting, contribute to collaborative teams, and grow through continuous learning and clean coding practices.",
+    "tools-title": "Tools for building high-quality, accessible UI.",
+    "skills-title": "Soft Skills."
+  }
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  html{
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-white text-black;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .container{
+    @apply max-w-7xl mx-auto px-4;
+  }
+}

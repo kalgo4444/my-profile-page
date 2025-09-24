@@ -1,0 +1,19 @@
+{
+  "header": {
+    "navlinks": {
+      "about": "Men Haqimda",
+      "projects": "Loyihalar",
+      "contact": "Aloqa"
+    }
+  },
+  "hero": {
+    "job": "Front-End Dastirchi",
+    "description": "Men chiroyli va funktsional veb-ilovalarni yaratish ishtiyoqiga ega bo'lgan oldingi dasturchiman. HTML, CSS, JavaScript va React bilan ishlash tajribam bor. Men doimo yangi texnologiyalarni o'rganish va malakamni oshirishga intilaman."
+  },
+  "about-me": {
+    "title": "Front-End Web Dezayner/dasturchi",
+    "description": "Ilmiy va shaxsiy loyihalar orqali sezgir va foydalanuvchilarga qulay veb-ilovalarni yaratishda amaliy tajribaga ega bo'lgan Motivated Junior Front-End Developer. UI/UX asoslarini yaxshi tushungan holda HTML, CSS, SCSS, JavaScript, TypeScript, React va Next.js-ni yaxshi biladi. Ko'nikmalarni professional muhitda qo'llash, hamkorlikdagi jamoalarga hissa qo'shish va uzluksiz o'rganish va toza kodlash amaliyotlari orqali o'sishni xohlaydi.",
+    "tools-title": "Yuqori sifatli, qulay UI yaratish vositalari.",
+    "skills-title": "Konikmalar."
+  }
+}

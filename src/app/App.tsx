@@ -1,10 +1,12 @@
 import { memo } from "react";
+import AppProvider from "./provider";
+import HomePage from "../page/Home/HomePage";
 
 const App = () => {
   return (
-    <div>
-      <h2>App</h2>
-    </div>
+    <AppProvider>
+      <HomePage />
+    </AppProvider>
   );
 };
 
