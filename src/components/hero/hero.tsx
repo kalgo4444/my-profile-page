@@ -1,4 +1,5 @@
-import { Heading, Text } from "@radix-ui/themes";
+import { Heading, Link, Text } from "@radix-ui/themes";
+import { DownloadIcon } from "lucide-react";
 import { memo } from "react";
 import { useTranslation } from "react-i18next";
 
@@ -15,6 +16,11 @@ const Hero = () => {
             {t("hero.job")}
           </Heading>
           <Text className="max-w-5xl w-full">{t("hero.description")}</Text>
+          <Link mt={"5"} href="/public/resume" download={"my.pdf"}>
+            <div className="flex items-center gap-x-2">
+              Resume <DownloadIcon />
+            </div>
+          </Link>
         </div>
       </div>
     </section>
